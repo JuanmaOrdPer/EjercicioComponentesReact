@@ -27,3 +27,7 @@ yarn-error.log*
 index.js
 index.css
 logo.svg
+setupTest.js
+reportWebVitals.js
+App.test.js
+App.css
